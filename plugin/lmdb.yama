@@ -1,0 +1,14 @@
+ifeq (,$(yama.Level))
+    $(error This is a yama include project)
+endif
+
+
+CFLAGS += -Wno-unused-parameter -Wno-cast-function-type -pthread
+
+
+all : lmdb
+$(call yama.goalLib,lmdb,mdb midl)
+$(call yama.rules)
+
+# manual dependencies
+#$(lmdb.Objects) : $(yama.Source)lmdb.h $(yama.Source)midl.h
