@@ -3,8 +3,6 @@
  * Auth: MatveyT
  * Desc: Imports compiler generated .d files into the internal database
  * Note: To be preprocessed with re2c
- *
- * $Id$
  */
 
 

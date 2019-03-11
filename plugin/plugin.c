@@ -3,8 +3,6 @@
  * Auth: MatveyT
  * Desc: GNU Make plugin to read in dependency database
  * Note: None
- *
- * $Id$
  */
 
 

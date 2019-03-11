@@ -1,7 +1,0 @@
-# LMDB
-# Lightning Memory-Mapped Database from Symas
-# http://symas.com/mdb/
-#
-# repo mirror at github: https://github.com/LMDB/lmdb
-#
-# git clone https://github.com/LMDB/lmdb.git

@@ -3,8 +3,6 @@
  * Auth: MatveyT
  * Desc: Simple wrapper for Symas LMDB (https://symas.com/lmdb)
  * Note: None
- *
- * $Id$
  */
 
 
