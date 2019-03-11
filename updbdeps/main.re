@@ -1,6 +1,6 @@
 /*
  * Proj: dbdeps
- * Auth: MatveyT
+ * Auth: matveyt
  * Desc: Imports compiler generated .d files into the internal database
  * Note: To be preprocessed with re2c
  */

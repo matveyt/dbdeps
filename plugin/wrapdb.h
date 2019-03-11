@@ -1,6 +1,6 @@
 /*
  * Proj: dbdeps
- * Auth: MatveyT
+ * Auth: matveyt
  * Desc: Simple wrapper for Symas LMDB (https://symas.com/lmdb)
  * Note: None
  */

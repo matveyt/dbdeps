@@ -1,6 +1,6 @@
 /*
  * Proj: dbdeps
- * Auth: MatveyT
+ * Auth: matveyt
  * Desc: GNU Make plugin to read in dependency database
  * Note: None
  */
